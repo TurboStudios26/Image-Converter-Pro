@@ -3,7 +3,7 @@ Hey Guys, hope you well.
 
 This is Tbm Tahmid, and I made a simple offline Image converter. Project name is ```Image Converter Pro```.
 
-Well are you want to konw more, go to the release section.
+Well are you want to konw more, go to the [release](https://github.com/TurboStudios26/Image-Converter-Pro/releases/tag/1.0.0) section.
 
 Want to Install? Goto the release section and download the [Image.Converter.Pro.exe](https://github.com/TurboStudios26/Image-Converter-Pro/releases/download/1.0.0/Image.Converter.Pro.exe) for ```Windows```.
 
